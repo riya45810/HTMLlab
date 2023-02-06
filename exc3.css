@@ -1,0 +1,212 @@
+body{
+
+    margin: 0;
+
+    padding: 0;
+
+    background-color: aqua;
+
+}
+
+.tas1{
+
+    display: flex;
+
+    flex-direction: row;
+
+    margin-top: 50px;
+
+    margin-left: 50px;
+
+    margin-right: 50px;
+
+    height: 50vh;
+
+    justify-content: space-between;
+
+   
+
+}
+
+.tas2{
+
+    display: flex;
+
+    flex-direction: row;
+
+   height: 50vh;
+
+    justify-content: space-between;
+
+    margin-top: 50px;
+
+    margin-left: 50px;
+
+    margin-right: 50px;
+
+
+
+   
+
+}
+
+.E{
+
+    background-color: rgb(127, 212, 255);
+
+    width: 150px;
+
+    height: 150px;
+
+    justify-content: center;
+
+    text-align: center;
+
+    align-items: center;
+
+    display: flex;
+
+    font-size: 70px;
+
+}
+
+.G{
+
+    background-color: rgb(127, 212, 255);
+
+    width: 150px;
+
+    height: 150px;
+
+    justify-content: center;
+
+    text-align: center;
+
+    align-items: center;
+
+    display: flex;
+
+    font-size: 70px;
+
+}
+
+.F{
+
+    background-color: rgb(127, 212, 255);
+
+    width: 150px;
+
+    height: 150px;
+
+    justify-content: center;
+
+    text-align: center;
+
+    align-items: center;
+
+    display: flex;
+
+    font-size: 70px;
+
+}
+
+.U{
+
+    background-color: rgb(127, 212, 255);
+
+    width: 150px;
+
+    height: 150px;
+
+    justify-content: center;
+
+    text-align: center;
+
+    align-items: center;
+
+    display: flex;
+
+    font-size: 70px;
+
+}
+
+.W{
+
+    background-color: rgb(127, 212, 255);
+
+    width: 150px;
+
+    height: 150px;
+
+    justify-content: center;
+
+    text-align: center;
+
+    align-items: center;
+
+    display: flex;
+
+    font-size: 70px;
+
+}
+
+.L{
+
+    background-color: rgb(127, 212, 255);
+
+    width: 150px;
+
+    height: 150px;
+
+    justify-content: center;
+
+    text-align: center;
+
+    align-items: center;
+
+    display: flex;
+
+    font-size: 70px;
+
+}
+
+.C{
+
+    background-color: rgb(127, 212, 255);
+
+    width: 150px;
+
+    height: 150px;
+
+    justify-content: center;
+
+    text-align: center;
+
+    align-items: center;
+
+    display: flex;
+
+    font-size: 70px;
+
+}
+
+.La{
+
+    background-color: rgb(127, 212, 255);
+
+    width: 150px;
+
+    height: 150px;
+
+    justify-content: center;
+
+    text-align: center;
+
+    align-items: center;
+
+    display: flex;
+
+    font-size: 70px;
+
+}
+
